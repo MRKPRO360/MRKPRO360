@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MRKPRO360
 - 👀 I’m interested in ...Learning Web Development
-- 🌱 I’m currently learning ...Node Js And React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Node Js And TypeScript
+- 💞️ I’m looking to collaborate on ... Enthusiastic Developer
 - 📫 How to reach me ...My email is mdrezaulkarrim@gmail.com
 
 <!---
