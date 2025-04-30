@@ -1,3 +1,12 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  width="100%">
+
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="32" height="32" alt="waving hand" />
+  I'm Md. Rezaul Karim
+</h1>
+<h3 align="start"></h3>
+
 # 💫 About Me:
 I’m currently a fresher looking for exciting opportunities in the tech industry.<br>
 🌱 I’m currently learning Full Stack Development & Green Sock Animation(GSAP).<br>
@@ -33,7 +42,7 @@ I’m currently a fresher looking for exciting opportunities in the tech industr
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
+
 # 📊 GitHub Stats:
 
 ![](https://komarev.com/ghpvc/?username=mdrezaulkarrim&abbreviated=true) <br/>
@@ -46,6 +55,10 @@ I’m currently a fresher looking for exciting opportunities in the tech industr
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRKPRO360&theme=blue_green&utcOffset=8)
 <br/>
 
+## 🎓 Education
+
+**B.Sc. in Physics**  
+National University, Bangladesh (Graduation: 2024)
 
 ## 🏆 GitHub Trophies
 
