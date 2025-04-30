@@ -1,19 +1,21 @@
 # 💫 About Me:
 I’m currently a fresher looking for exciting opportunities in the tech industry.<br>
-🌱 I’m currently learning Full Stack Development & Data Structures.<br>
+🌱 I’m currently learning Full Stack Development & Green Sock Animation(GSAP).<br>
 👯 I’m looking to collaborate on open-source and beginner-friendly projects.<br>
 💬 Ask me about JavaScript, React, or anything beginner-friendly – I'm happy to share what I know!<br>
 📫 How to reach me: mdrezaulkarrim@gmail.com | [LinkedIn](https://www.linkedin.com/in/md-rezaul-k/)<br>
+🌐 My Portfolio: [https://yourportfolio.com](https://yourportfolio.com)<br>
 ⚡ Fun fact: I enjoy building side projects to learn by doing!
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdrezaulkarrim) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rezaul-k/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdrezaulkarrim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rezaul-k/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdrezaulkarrim@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,7 +35,7 @@ I’m currently a fresher looking for exciting opportunities in the tech industr
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdrezaulkarrim&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=mdrezaulkarrim&theme=prussian&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=mdrezaulkarrim&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrezaulkarrim&theme=prussian&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
