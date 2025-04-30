@@ -4,7 +4,7 @@ I’m currently a fresher looking for exciting opportunities in the tech industr
 👯 I’m looking to collaborate on open-source and beginner-friendly projects.<br>
 💬 Ask me about JavaScript, React, or anything beginner-friendly – I'm happy to share what I know!<br>
 📫 How to reach me: mdrezaulkarrim@gmail.com | [LinkedIn](https://www.linkedin.com/in/md-rezaul-k/)<br>
-🌐 My Portfolio: [https://yourportfolio.com](https://yourportfolio.com)<br>
+🌐 My Portfolio: [https://mrkpro360.com](https://next-portolio-client.vercel.app)<br>
 ⚡ Fun fact: I enjoy building side projects to learn by doing!
 
 ## 🌐 Socials:
@@ -34,12 +34,27 @@ I’m currently a fresher looking for exciting opportunities in the tech industr
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdrezaulkarrim&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mdrezaulkarrim&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrezaulkarrim&theme=prussian&hide_border=false&layout=compact)
+# 📊 GitHub Stats:
+
+![](https://komarev.com/ghpvc/?username=mdrezaulkarrim&abbreviated=true) <br/>
+<a href="https://github.com/mdrezaulkarrim">
+![](https://github-readme-stats.vercel.app/api?username=MRKPRO360&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRKPRO360&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MRKPRO360&theme=blue-green&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRKPRO360&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRKPRO360&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRKPRO360&theme=blue_green&utcOffset=8)
+<br/>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdrezaulkarrim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=MRKPRO360&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mdrezaulkarrim&icon=0&color=0)](https://visitcount.itsvg.in)
